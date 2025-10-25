@@ -1,0 +1,110 @@
+---
+title: "Raising Conscientious Daughters: A Father’s Role in Building Character"
+format:
+  revealjs:
+    theme: solarized
+    embed-resources: true
+---
+
+##
+
+*Developing honesty and self-control in our daughters for lifelong success.*
+
+---
+
+## Why This Topic Matters
+
+- Conscientiousness = Honesty + Self-Control  
+- Most predictive trait of adult happiness, health, and success  
+- Dr. Leonard Sax’s research shows a **decline in conscientiousness** among youth  
+- Fathers play a **critical role** in reversing this trend
+
+---
+
+## Overview of Key Insights
+
+We’ll explore four strategies:
+
+1. Modeling honesty  
+2. Teaching self-control  
+3. Building emotional connection  
+4. Setting boundaries with love
+
+---
+
+
+
+
+
+
+## Modeling Honesty
+
+<audio id="mp3-honesty" src="modeling-honesty.mp3"></audio>
+<a onclick="document.getElementById('mp3-honesty').play(); return false;">🎧 - listen</a>
+
+::: {.incremental}
+- Children learn by watching  
+- Avoid “white lies”  
+- Consistency & importance of example
+
+:::
+
+
+
+---
+
+## Teaching Self-Control
+
+<audio id="mp3-self-control" src="teaching-self-control.mp3"></audio>
+<a onclick="document.getElementById('mp3-self-control').play(); return false;">🎧 - listen</a>
+
+- Self-control = choosing long-term good over short-term gratification  
+- Use “waiting games” and routines  
+- Encourage naming emotions (“Name it to tame it”)  
+- Model calm responses to frustration
+
+---
+
+## Building Emotional Connection
+
+<audio id="mp3-bond" src="father-daughter-bond.mp3"></audio>
+<a onclick="document.getElementById('mp3-bond').play(); return false;">🎧 ↔ 🤔</a>
+
+- Your daughter needs your presence more than perfection  
+- Create rituals: walks, shared prayer, meals  
+- Validate her feelings  
+- Reinforce her identity as loved and capable
+
+---
+
+## Setting Boundaries with Love
+
+- Be authoritative: firm, fair, and warm  
+- Set clear expectations (screens, chores, behavior)  
+- Enforce consequences consistently  
+- Don’t fear being disliked—fear not parenting well
+
+---
+
+## Conclusion
+
+- Honesty and self-control are teachable  
+- Your daughter’s future is shaped by your example  
+- You are her first teacher of virtue
+
+> “The most powerful gift you can give your daughter is the belief that she is loved, capable, and worthy—because she saw it in your eyes every day.”
+
+---
+
+## Discussion Prompts
+
+1. What’s one thing you learned today that you want to try with your daughter this week?  
+2. How do you model honesty and self-control in your home?  
+3. What’s a tradition or ritual you share with your daughter that strengthens your bond?
+
+---
+
+## Resources
+
+- [Conscientiousness Is Declining...](https://ifstudies.org/blog/conscientiousness-is-declining-among-young-americans-why), by Dr. Leonard Sax
+- [Grit](https://angeladuckworth.com/grit-book/), by Angela Duckworth
