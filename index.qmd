@@ -1,0 +1,19 @@
+---
+title: "Raising Conscientious Daughters: A Father’s Role in Building Character"
+format:
+  revealjs: 
+    theme: [default, custom.scss]
+    embed-resources: true
+---
+
+## Introduction
+
+![](burn-murdoch-01.png){.bordered-image}
+
+## Introduction
+
+![](burn-murdoch-02.png)
+
+## Introduction
+
+![](burn-murdoch-03.png)
