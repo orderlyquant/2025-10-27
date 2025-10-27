@@ -1,19 +1,139 @@
 ---
-title: "Raising Conscientious Daughters: A Father’s Role in Building Character"
+title: ""
 format:
   revealjs: 
     theme: [default, custom.scss]
     embed-resources: true
 ---
 
-## Introduction
+## {background-image="resources/harvesting.png" background-size="cover" background-opacity="1"}
 
-![](burn-murdoch-01.png){.bordered-image}
+[Conscientious<br>Daughters]{.title .absolute top="0%" left="-5%"}
 
-## Introduction
+## The Problem
 
-![](burn-murdoch-02.png)
+<audio id="mp3-conscientiousness" src="resources/conscientiousness.mp3"></audio>
+<a onclick="document.getElementById('mp3-conscientiousness').play(); return false;">🎧 - listen</a>
 
-## Introduction
+::: {.incremental}
+- Conscientiousness = honesty + self-control
+:::
 
-![](burn-murdoch-03.png)
+
+##
+
+> Of all personality types, [conscientious people]{.yellow} tend to fare best on a number of key measures. They [live the longest]{.yellow}, have the [most career success]{.yellow} and are [less likely to go through divorce]{.yellow}. They even manage to hold down a job during recessions. Intuitively, this makes sense. Life isn’t just about knowing what you should do, or having the resources to do it, [it’s about following through]{.yellow}. Being motivated and persistent is a huge help.
+
+[John Burn-Murdoch, Financial Times](https://www.ft.com/content/5cd77ef0-b546-4105-8946-36db3f84dc43)
+
+
+
+## Conscientiousness
+
+
+![](resources/burn-murdoch-01.png){.bordered-image .absolute left="10%" height="70%"}
+
+::: {.incremental .absolute top = "86%"}
+- 30% reported 1 point lower…more neurotic…less agreeable
+:::
+
+
+## Follow Through
+
+![](resources/burn-murdoch-02.png){.bordered-image .absolute left="10%" height="70%"}
+
+::: {.incremental .absolute top = "86%"}
+- easily distracted…less tenacious…less likely to make and deliver on commitments
+:::
+
+
+## Social Skills
+
+![](resources/burn-murdoch-03.png){.bordered-image .absolute left="10%" height="70%"}
+
+::: {.incremental .absolute top = "86%"}
+- preference for digital communication…"ghosting"
+:::
+
+## Must be taught
+
+<audio id="mp3-hon_sc_taught" src="resources/hon_sc_taught.mp3"></audio>
+<a onclick="document.getElementById('mp3-hon_sc_taught').play(); return false;">🎧 - listen</a>
+
+::: {.incremental}
+- As a society we are failing to teach honesty and self-control
+- Parents aren't teaching them authoritatively
+- Schools are focusing on content rather than character
+    - 🔥 "Greatness of Heart, Mind and Character" - *Montrose*
+:::
+
+## Modeling Honesty
+
+<audio id="mp3-honesty" src="resources/modeling-honesty.mp3"></audio>
+<a onclick="document.getElementById('mp3-honesty').play(); return false;">🎧 - listen</a>
+
+::: {.incremental}
+- Children watch more than they listen
+- Avoid little white lies
+- *not going to hell for a bottle of soda*
+:::
+
+## Teaching Self-Control
+
+<audio id="mp3-self-control" src="resources/teaching-self-control.mp3"></audio>
+<a onclick="document.getElementById('mp3-self-control').play(); return false;">🎧 - listen</a>
+
+::: {.incremental}
+- Need rules and boundaries
+- Make decisions for what is good, not for what feels good
+- _Make Your Bed,_ Admiral William H. McRaven (2014)
+:::
+
+## Conclusion
+
+
+> Conscientiousness will separate those who just survive from those who thrive in the 21st century. We can each decide which half of that divide we fall on — but ironically that will take some dedication.
+
+[John Burn-Murdoch, Financial Times](https://www.ft.com/content/5cd77ef0-b546-4105-8946-36db3f84dc43)
+
+## {background-image="resources/planting.png" background-size="cover" background-opacity="0.65"}
+
+## The common culprits
+
+::: {.incremental}
+- cell phones
+- streaming services
+- social media
+- online gambling
+- hyper-palatable food
+:::
+
+## 💭 - Discussion on Honesty
+
+<audio id="mp3-def-honesty" src="resources/def-honesty.mp3"></audio>
+<a onclick="document.getElementById('mp3-def-honesty').play(); return false;">🎧 - listen</a>
+
+::: {.incremental}
+- 5 minutes to discuss
+:::
+
+## 💭 - Discussion on Self-Control
+
+<audio id="mp3-def-self-control" src="resources/def-self-control.mp3"></audio>
+<a onclick="document.getElementById('mp3-def-self-control').play(); return false;">🎧 - listen</a>
+
+::: {.incremental}
+- 5 minutes to discuss
+:::
+
+
+
+
+## {background-image="resources/dinner.png" background-size="cover" background-opacity="0.65"}
+
+## Upcoming Events
+
+- MFC: December 11 (Thursday)
+- November 14 Upper School Trivia Night (Friday)
+- November 13, [**@ Sparhawk**]{.dark-yellow}
+    - Mr. Michael Drahos, MA, MS: Stories that Mold Our Minds: The Critical Role of Narrative in our Development and Ongoing Mental Health

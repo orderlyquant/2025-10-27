@@ -1,25 +1,56 @@
 /*-- scss:defaults --*/
-$theme-darkblue: #01364C;
-$theme-blue: #99D9DD;
-$theme-white: #F7F8F9;
-$theme-yellow: #F4BA02;
+$theme-solar-light: #fff1e5ff;
+$theme-darkblue: #01364cff;
+$theme-darkgrey: #6f6f6fff;
+$theme-montrose-red: #cf0a2cff;
+// $theme-blue: #468dc9ff;
+$theme-blue: #58a0dbff;
+$theme-white: #f7f8f9ff;
+$theme-dark-yellow: #f4ba02ff;
+$theme-yellow: #FBEBB2;
 
-@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap');
+$theme-text: #EDECEB;
+$theme-pearl: #F5E3DD;
+$theme-bg: #1F394A;
+$theme-heading: #30a05fff;
+// $theme-heading: #7F9789;
+$theme-link: #4188AC;
 
-$body-bg: $theme-darkblue;
-$body-color: $theme-white;
-$link-color: $theme-blue;
-$presentation-heading-color: lighten($theme-blue, 15%);
 
-$font-family-sans-serif: 'Manrope', sans-serif;
-$presentation-heading-font: 'IBM Plex Serif', serif;
+// @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+// @import url('https://fonts.googleapis.com/css2?family=Gelasio:ital,wght@0,400..700;1,400..700&display=swap');
+// @import url('https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,100..900;1,100..900&display=swap');
+// @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap');
+
+$body-bg: $theme-bg;
+$body-color: $theme-text;
+$link-color: $theme-link;
+$presentation-heading-color: $theme-heading;
+
+$font-family-sans-serif: 'Manrope', 'Open Sans', sans-serif;
+$presentation-heading-font: 'IBM Plex Serif', 'Gelasio', 'Bitter', serif;
 
 /*-- scss:rules --*/
+
+.title {
+  // color: $theme-darkblue;
+  color: #7F3401;
+  font-family: $presentation-heading-font;
+  font-size: 2em;
+  font-weight: bold;
+  // font-style: italic;
+  text-shadow: 
+    -1px -1px 0 #612700ff,
+     1px -1px 0 #612700ff,
+    -1px  1px 0 #612700ff,
+     1px  1px 0 #612700ff; /* Creates the outline effect */
+}
 
 .blue {
   color: $theme-blue;
   font-weight: bold;
+  // text-decoration: underline;
 }
 
 .yellow {
@@ -27,12 +58,22 @@ $presentation-heading-font: 'IBM Plex Serif', serif;
   font-weight: bold;
 }
 
+.dark-yellow {
+  color: $theme-dark-yellow;
+  font-weight: bold;
+}
+
 .reveal .slide a {
+  font-family: $presentation-heading-font;
   text-decoration: underline;
 }
 
 .bordered-image {
-    border: 5px solid black; /* Change color and thickness as needed */
-    padding: 10px; /* Optional: space between the image and border */
-    border-radius: 10px; /* Optional: rounded corners */
+    position: relative;
+    display: inline-block;
+    overflow: hidden;
+    border: 5px solid #F8F8F8; /* White border */
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5); /* Shadow for depth */
 }
+
